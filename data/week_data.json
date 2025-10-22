@@ -1,0 +1,14 @@
+{
+    "week1": {
+      "id": "1",
+      "name": "Tutorial",
+      "display_name": "Tutorial",
+      "description": "Welcome to FNF",
+      "difficulty": "NORMAL",
+      "length": "1:30",
+      "composer": "Kawai Sprite",
+      "script": "scripts/week1_script.py",
+      "songs": ["tutorial"],
+      "locked": false
+    }
+}    

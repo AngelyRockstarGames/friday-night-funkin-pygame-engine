@@ -1,0 +1,11 @@
+{
+    "music_volume": 0.7,
+    "sfx_volume": 0.8,
+    "master_volume": 1.0,
+    "preload_sounds": true,
+    "audio_latency": 100,
+    "max_simultaneous_sounds": 16,
+    "default_fade_duration": 1000,
+    "enable_spectrum_analyzer": false,
+    "enable_beat_detection": true
+}
